@@ -31,8 +31,9 @@ Built a simulated SOC on Vultr using ELK Stack for log analysis, Mythic C2 for p
 - Scripting: Powershell
 - Frameworks: NIST 800-53, MITRE ATT&CK, OWASP Top 10
 
-## Steps
+## Screenshots
 
-Reference 1: <img width="2560" height="1392" alt="Products - Vultr com - Google Chrome 10_6_2025 09_15_06" src="https://github.com/user-attachments/assets/d2027bd3-2b71-4141-a5f6-6ec567034bee" /> 
+Screenshot 1: <img width="2560" height="1392" alt="Products - Vultr com - Google Chrome 10_6_2025 09_15_06" src="https://github.com/user-attachments/assets/d2027bd3-2b71-4141-a5f6-6ec567034bee" /> 
 Vultr Servers used in SOC Challenge, with the exception of Mythic. 
 
+Screenshot 2: <img width="2560" height="1124" alt="MyDFIR-Authentication-Alerts - Elastic - Google Chrome 10_6_2025 09_18_58" src="https://github.com/user-attachments/assets/9cfeef7e-6072-4c1f-9506-08f501888901" />
