@@ -37,3 +37,4 @@ Screenshot 1: <img width="2560" height="1392" alt="Products - Vultr com - Google
 Vultr Servers used in SOC Challenge, with the exception of Mythic. 
 
 Screenshot 2: <img width="2560" height="1124" alt="MyDFIR-Authentication-Alerts - Elastic - Google Chrome 10_6_2025 09_18_58" src="https://github.com/user-attachments/assets/9cfeef7e-6072-4c1f-9506-08f501888901" />
+Customized dashboard utilizing maps and tables of failed and successful authentications (SSH/RDP). 
